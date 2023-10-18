@@ -5,7 +5,8 @@
 
 ## Main Content
 
-* [Part 1 - Intro to Zero Knowledge technology](main-content/part-1-intro-to-zero-knowledge-technology.md)
+* [Part 1 - Intro to Zero Knowledge technology](main-content/part-1-intro-to-zero-knowledge-technology/README.md)
+  * [What are Zero Knowledge Proofs?](main-content/part-1-intro-to-zero-knowledge-technology/what-are-zero-knowledge-proofs.md)
 
 ***
 

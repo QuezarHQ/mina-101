@@ -11,7 +11,8 @@
 
 ***
 
-* [Part 2 - Intro to Mina](part-2-intro-to-mina.md)
+* [Part 2 - Intro to Mina](part-2-intro-to-mina/README.md)
+  * [Outline](part-2-intro-to-mina/outline.md)
 * [Part 3 - Intro to zkApp (on Mina)](part-3-intro-to-zkapp-on-mina.md)
 * [Part 4 - Deploy a Hello World smart contract on Mina](part-4-deploy-a-hello-world-smart-contract-on-mina/README.md)
   * [Outline](part-4-deploy-a-hello-world-smart-contract-on-mina/outline.md)
